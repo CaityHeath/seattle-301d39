@@ -201,3 +201,6 @@ console.log(joe.scopeArrow());
 //
 // 3. Explain why "this" is different when an arrow function is used.
 // The scope of this is not contained within the application when it is used in an arrow function. It bubbles out to the global Window object. Whereas, this when written inside of a function is contained to the function and application.
+
+
+//new 
