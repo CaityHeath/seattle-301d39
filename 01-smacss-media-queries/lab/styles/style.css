@@ -1,0 +1,61 @@
+body{
+  width: 90%;
+  background-color: black;
+  margin: 20px auto 20px auto;
+  
+}
+
+header{
+  height: 75px;
+  background-color: lightcyan;
+}
+
+aside{
+  height: 150px;
+  background-color: lightpink; 
+}
+
+.containerc {
+  height: 125px;
+  background-color: lightcoral;
+}
+
+.containerd{
+  height: 125px;
+  background-color: crimson;
+}
+
+
+#e{
+  width: 50%;
+  height: 250px;
+  background-color: cornflowerblue;
+  float:left;
+}
+
+#f{
+  width: 50%;
+  height: 250px;
+  background-color: cornsilk;
+  float: right;
+}
+
+#g{
+  width: 50%;
+  height: 250px;
+  background-color: cornsilk;
+  float:left;
+}
+
+#h{
+  width: 50%;
+  height: 250px;
+  background-color: cornflowerblue;
+  float: right;
+}
+
+footer{
+  height: 80px;
+  background-color:lightcyan;
+  clear: both;  
+}
