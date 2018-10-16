@@ -59,3 +59,52 @@ footer{
   background-color:lightcyan;
   clear: both;  
 }
+
+@media all and (min-width: 768px){
+  header{
+    height: 100px;
+  }
+
+  aside{
+    height: 600px;
+    width: 20%;
+    float: left;
+  }
+
+  .containerc{
+    height: 200px;
+    width: 40%;
+    float: left;
+  }
+
+  .containerd{
+    height: 200px;
+    width: 40%;
+    float: right;
+  }
+
+  #e{
+    height: 250px;
+    width: 20%;
+  }
+  #f{
+    height: 250px;
+    width: 20%;
+  }
+  #g{
+    height: 250px;
+    width: 20%;
+  }
+  #h{
+    height: 250px;
+    width: 20%;
+  }
+
+  footer{
+    height:150px;
+    width:80%;
+    clear: none;
+    float: right;
+  }
+
+}
